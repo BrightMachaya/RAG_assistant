@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Main entry point for RAG Assistant Application
+Main entry point for the RAG Assistant Application
 """
 import sys
 import os
