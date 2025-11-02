@@ -1,0 +1,19 @@
+rag_assistant/
+├── main.py
+├── README.txt
+├── project_structure.txt
+├── walkthrough
+├── gui/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── setup_frame.py
+│   └── chat_frame.py
+├── core/
+│   ├── __init__.py
+│   ├── document_processor.py
+│   ├── ollama_manager.py
+│   ├── rag_pipeline.py
+│   └── text_loader.py
+└── utils/
+    ├── __init__.py
+    └── dependencies.py

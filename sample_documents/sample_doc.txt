@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
+Machine Learning (ML) is a subset of AI that focuses on the development of computer programs that can access data and use it to learn for themselves. The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide.
+
+Deep Learning is a subset of machine learning that uses artificial neural networks with multiple abstraction layers. Typical deep learning algorithms include convolutional neural networks (CNNs), recurrent neural networks (RNNs), and deep belief networks.
+
+Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP combines computational linguistics with statistical, machine learning, and deep learning models.
+
+LangChain is a framework for developing applications powered by language models. It provides tools and abstractions to work with large language models, including prompt management, chains, agents, and memory.
+
+Retrieval-Augmented Generation (RAG) is a technique that enhances the accuracy and reliability of generative AI models with facts fetched from external sources. It combines the power of retrieval-based and generation-based models.
