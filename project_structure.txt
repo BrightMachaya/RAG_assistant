@@ -1,8 +1,10 @@
 rag_assistant/
 ├── main.py
-├── README.txt
+├── README.md
 ├── project_structure.txt
 ├── walkthrough
+├── LICENCE.txt
+├── requirements.txt
 ├── gui/
 │   ├── __init__.py
 │   ├── app.py

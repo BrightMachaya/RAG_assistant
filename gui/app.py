@@ -15,7 +15,7 @@ class RAGApplication:
         
     def setup_window(self):
         """Setup main application window"""
-        self.root.title("Custom RAG Assistant with Ollama 1.0.1")
+        self.root.title("Retrieval-Augmented Generation System")
         self.root.geometry("950x800")
         
         # Main container
@@ -24,7 +24,7 @@ class RAGApplication:
         
         # Header
         header_label = ttk.Label(main_frame, 
-                               text="Custom RAG Assistant - Ask Questions About Your Documents", 
+                               text="Retrieval-Augmented Generation - Ask Questions About Your Documents", 
                                font=('Arial', 14, 'bold'))
         header_label.pack(pady=10)
         
